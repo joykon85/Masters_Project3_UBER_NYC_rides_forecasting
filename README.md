@@ -7,5 +7,4 @@ Data was aggregated to order count per hour
 Jupyter notebook was ran on google collab. May need editting to run after download.
 
 More Details in the PDF reports
-
-Thanks
+Code is only included for my portion of the project
