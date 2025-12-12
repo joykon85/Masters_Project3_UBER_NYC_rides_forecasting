@@ -62,10 +62,7 @@ Model performance was evaluated using **MSE and RMSE** metrics.
 
 ## Full Report
 
-The complete project methodology, results, and business insights are documented in the final group report:
-
-- *Optimizing Taxi Economics: A Data-Driven Approach to Pricing and Resource Management in NYC*  
-  (NUS-ISS EBA5005, May 2025) :contentReference[oaicite:0]{index=0}
+The complete project methodology, results, and business insights are documented in the final group report
 
 ---
 
